@@ -1,3 +1,6 @@
+// import { useBalance } from '@repo/store/useBalance';
+
 export default function Page(): JSX.Element {
-  return <h1>Hello</h1>;
+  // const balance = useBalance();
+  return <h1 className="font-bold text-4xl">Hello</h1>;
 }
